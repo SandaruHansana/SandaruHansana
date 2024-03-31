@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, React, NodeJs & R language**
 
-- 👨‍💻 Visit my portfolio at [https://sandaruhansana.netlify.app/](https://sandaruhansana.netlify.app/)
+- 👨‍💻 My Portfolio: [https://sandaruhansana.netlify.app/](https://sandaruhansana.netlify.app/)
 
 - 📫 How to reach me **sandaruhansana90@gmail.com**
 
