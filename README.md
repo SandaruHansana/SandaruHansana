@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **level 5 Computer Science group project (EffiSync WebApplication)**
 
-- 🌱 I’m currently learning **React, NodeJs & R language**
+- 🌱 I’m currently learning ** NodeJs & TypeScript**
 
 - 👨‍💻 My Portfolio: [https://sandaruhansana.netlify.app/](https://sandaruhansana.netlify.app/)
 
