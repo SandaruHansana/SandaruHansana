@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandaru Hansana</h1>
 <h3 align="center">I'm Computer Science Undergraduate at IIT Sri Lanka</h3>
 
-- 🔭 I’m currently working on **level 5 Computer Science group project (EffiSync WebApplication)**
+- 🔭 I’m currently lokking for an one year internship programme to pursue my third year.
 
 - 🌱 I’m currently learning ** NodeJs & TypeScript**
 
